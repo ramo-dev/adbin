@@ -1,0 +1,25 @@
+export const TERMINAL_THEME = {
+  background: '#0b0b0b',
+  foreground: '#e7e7e9',
+  cursor: '#f5f5f5',
+  cursorAccent: '#0b0b0b',
+  selectionBackground: '#3a3f45',
+  black: '#1a1b1e',
+  red: '#ff6b6b',
+  green: '#7fe3b6',
+  yellow: '#f2cc60',
+  blue: '#7cb7ff',
+  magenta: '#c99bff',
+  cyan: '#65d7e0',
+  white: '#d7d7db',
+  brightBlack: '#5c5f66',
+  brightRed: '#ff8f8f',
+  brightGreen: '#a3f0cd',
+  brightYellow: '#ffd97d',
+  brightBlue: '#a3caff',
+  brightMagenta: '#ddb8ff',
+  brightCyan: '#8fe6ec',
+  brightWhite: '#ffffff',
+}
+
+export const FONT_SIZES = [12, 13, 14, 16, 18]
